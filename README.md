@@ -1,6 +1,14 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Shopstory](https://shopstory.app/) demo using next.js and Contentful.
 
 ## Getting Started
+
+1. Add npm token
+2. Add access token in .env
+3. Add Contentful Space settings in .env
+
+
+
+
 
 First, run the development server:
 
